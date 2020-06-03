@@ -3192,7 +3192,7 @@ plt.ylabel('Favorite Count');
 ```
 
 
-![png](output_115_0.png)
+![png](images/output_115_0.png)
 
 
 Favorite and retweet counts are highly positively correlated.  For about every 4 favorites there is 1 retweet.  The majority of the data falls below 40000 favorites and 10000 retweets.
@@ -3208,7 +3208,7 @@ plt.show;
 ```
 
 
-![png](output_117_0.png)
+![png](images/output_117_0.png)
 
 
 
@@ -3355,7 +3355,7 @@ plt.show;
 ```
 
 
-![png](output_120_0.png)
+![png](imgs/output_120_0.png)
 
 
 Indeed it appears that overtime the frequency of ratings below 1 decreases.  Before 2016-11 there many ratings below 1, while after that time there are barely any.

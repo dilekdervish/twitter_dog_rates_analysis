@@ -3388,7 +3388,7 @@ At the time this data was collected, WeRateDogs had over 8.6 million followers. 
 ### Standardized Ratings Over Time:
 The idea behind the WeRateDogs account is that they ask people to send them photos of their dogs, and they will rate them on a scale of 1-10 with humorous comments. The dogs are often given ratings higher than 10 (like 15/10, 12/10 etc.) as a way of saying that all dogs are perfect. I assumed that almost all the dog ratings were higher than 10/10 but I was surprised to notice that there were actually many ratings lower than 10/10. In addition, a lot of the ratings did not have a denominator of 10. I’m assuming this is because the twitter account is quite old and they have changed their rating patterns over time. Therefore, to standardize the ratings, I calculated the value of numerator divided by denominator. I was curious to see if overtime, as the account became more popular and people started loving the above 10/10 ratings, the higher ratings would become more prevalent. Indeed, as shown in Figure 2, it appears that overtime the frequency of ratings below 1 decreased. Before 2016-11 there are many ratings below 1, while after that time there are barely any. The maximum standardized rating is about 1.3 except for three outliers including the joke ratings 1776/10 and 420/10 and 1 error that did not end up getting cleaned.
 
-![png](imgs/output_120_1.png)
+![png](imgs/output_120_0.png)
 
 <a id='references'></a>
 # References

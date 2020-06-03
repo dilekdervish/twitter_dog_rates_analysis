@@ -1,6 +1,5 @@
 ## Twitter @dog_rates analysis
 
-
 ## Table of Contents
 - [Introduction](#intro)
 - [Gather](#gather)
@@ -13,11 +12,6 @@
 # Introduction
 
 The dataset wrangled in this project is the tweet archive of the Twitter user @dog_rates, also known as WeRateDogs. This twitter account rates people’s dogs out of 10 along with funny commentary about the dog in the shared image.
-
-# Table of Contance 
-
-* (Conclusion)[#Conclusion]
-* (References)[#References]
 
 <a id='gather'></a>
 # Gather
